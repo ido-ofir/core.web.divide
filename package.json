@@ -1,0 +1,23 @@
+{
+    "name": "core.web.divide",
+    "version": "1.0.0",
+    "description": "vertical and horizontal resizable dividers",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ido-ofir/core.web.divide.git"
+    },
+    "keywords": [
+        "core",
+        "divide"
+    ],
+    "author": "Ido Ofir",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ido-ofir/core.web.divide/issues"
+    },
+    "homepage": "https://github.com/ido-ofir/core.web.divide#readme"
+}
